@@ -1,0 +1,57 @@
+[
+    {
+      "category": "Elephants",
+      "name": "Asian Elephant",
+      "seller": "Tanvir Ahmed",
+      "price": 4000,
+      "rating": 4,
+      "img": "https://images.pexels.com/photos/247431/pexels-photo-247431.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "The Asian elephant is the largest land mammal on the Asian continent. They inhabit dry to wet forest and grassland habitats in 13 range countries spanning South and Southeast Asia. While they have preferred forage plants, Asian elephants have adapted to surviving on resources that vary based on the area. Asian elephants are extremely sociable, forming groups of six to seven related females that are led by the oldest female, the matriarch. Like African elephants, these groups occasionally join others to form larger herds, although these associations are relatively short-lived. In Asia, elephant herd sizes are significantly smaller than those of savannah elephants in Africa. More than two-thirds of an elephant's day may be spent feeding on grasses, but it also eats large amounts of tree bark, roots, leaves, and small stems. Cultivated crops such as bananas, rice, and sugarcane are favorite foods. Elephants are always close to a source of fresh water because they need to drink at least once a day. In Asia, humans have had close associations with elephants over many centuries, and elephants have become important cultural icons. According to Hindu mythology, the gods (deva) and the demons (asura) churned the oceans in a search for the elixir of life so that they would become immortal. As they did so, nine jewels surfaced, one of which was the elephant. In Hinduism, the powerful deity honored before all sacred rituals is the elephant-headed Lord Ganesha, who is also called the Remover of Obstacles."
+    },
+    {
+      "category": "Tigers",
+      "name": "Royal Bengal Tiger",
+      "seller": "Tanvir Ahmed",
+      "price": 10000,
+      "rating": 4.8,
+      "img": "https://images.pexels.com/photos/2541239/pexels-photo-2541239.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "Royal Bengal Tigers are also known as Indian Tiger and Bengal Tiger. They constitute a large population of tiger families in the world.  The Bengal tiger is the National animal of India and is found mostly in India, China, Bhutan, Bangladesh, and Burma.Every Bengal Tigers has a unique stripe pattern. We may have seen many tigers in our life, but no two tigers have similar strip patterns. Every tiger on earth has a distinct striped pattern which makes them different from other tigers and makes it easy in counting them during the tiger census.Their color ranges from yellow to light orange, with stripes from dark brown to black. Some of the Bengal Tigers are white in color, You can find a White Bengal Tiger in Bandhavgarh National Park.The tail is orange in color with black rings. Unlike the other white tigers that have blue eyes, Bengal tigers have yellow irises."
+    },    
+    {
+      "category": "Rhinoceros",
+      "name": "Rhinoceros",
+      "seller": "Tanvir Ahmed",
+      "price": 5000,
+      "rating": 4.2,
+      "img": "https://images.pexels.com/photos/5127543/pexels-photo-5127543.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "Rhinos once roamed many places throughout Europe, Asia, and Africa and were known to early Europeans who depicted them in cave paintings. At the beginning of the 20th century, 500,000 rhinos roamed Africa and Asia. By 1970, rhino numbers dropped to 70,000, and today, around 27,000 rhinos remain in the wild. Very few rhinos survive outside national parks and reserves due to persistent poaching and habitat loss over many decades. Three species of rhino—black, Javan, and Sumatran—are critically endangered. Today, a small population of Javan rhinos is found in only one national park on the northern tip of the Indonesian island of Java. A mainland subspecies of the Javan rhino was declared extinct in Vietnam in 2011. Successful conservation efforts have led to an increase in the number of greater one-horned (or Indian) rhinos, from around 200 at the turn of the 20th century to around 3,700 today. The greater one-horned rhino is one of Asia’s biggest success stories, with their status improving from endangered to vulnerable following significant population increases. However, the species still remains under threat from poaching for its horn and from habitat loss and degradation."
+    },
+    {
+      "category": "Lions",
+      "name": "Lion",
+      "seller": "Tanvir Ahmed",
+      "price": 15000,
+      "rating": 4.8,
+      "img": "https://images.pexels.com/photos/3498323/pexels-photo-3498323.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "Lion for all of their roaring, growling, and ferociousness, lions are family animals and truly social in their own communities. They usually live in groups of 15 or more animals called prides.Lion prides can be as small as 3 or as big as 40 animals. In a pride, lions hunt prey, raise cubs, and defend their territory together. In prides the females do most of the hunting and cub rearing. Usually all the lionesses in the pride are related—mothers, daughters, grandmothers, and sisters.Many of the females in the pride give birth at about the same time. A cub may nurse from other females as well as its mother. Each pride generally will have no more than two adult males.While the females usually live with the pride for life, the males often stay for only two to four years. After that they go off on their own or are evicted by other males who take over the pride. When a new male becomes part of the pride it is not unusual for him to kill all the cubs, ensuring that all future cubs will have his genes. The main job of males in the pride is defending the pride's territory. A male's loud roar, usually heard after sunset, can carry for as far as five miles (eight kilometers). The roar warns off intruders and helps round up stray members of the pride.Hunting generally is done in the dark by the lionesses. They often hunt in groups of two or three, using teamwork to stalk, surround, and kill their prey. Lionesses aren't the most successful of hunters, because they usually score only one kill out of several tries. After the kill the males usually eat first, lionesses next—and the cubs get what's left. Males and females fiercely defend against any outside lions that attempt to join their pride."
+    },
+    {
+      "category": "Wild Birds",
+      "name": "Eagle",
+      "seller": "Tanvir Ahmed",
+      "price": 5000,
+      "rating": 4.6,
+      "img": "https://images.pexels.com/photos/220898/pexels-photo-220898.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "eagle, any of many large, heavy-beaked, big-footed birds of prey belonging to the family Accipitridae (order Accipitriformes). In general, an eagle is any bird of prey more powerful than a buteo. An eagle may resemble a vulture in build and flight characteristics but has a fully feathered (often crested) head and strong feet equipped with great curved talons. A further difference is in foraging habits: eagles subsist mainly on live prey. They are too ponderous for effective aerial pursuit but try to surprise and overwhelm their prey on the ground. Like owls, many decapitate their kills. Because of their strength, eagles have been a symbol of war and imperial power since Babylonian times. Their likeness is found on Greek and Roman ruins, coins, and medals."
+    },
+    {
+      "category": "Deers",
+      "name": "Deer",
+      "seller": "Tanvir Ahmed",
+      "price": 10000,
+      "rating": 4.8,
+      "img": "https://images.pexels.com/photos/756758/pexels-photo-756758.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "details": "deer, (family Cervidae), any of 43 species of hoofed ruminants in the order Artiodactyla, notable for having two large and two small hooves on each foot and also for having antlers in the males of most species and in the females of one species. Deer are native to all continents except Australia and Antarctica, and many species have been widely introduced beyond their original habitats as game animals. One species, the reindeer (also known as the caribou), has been domesticated. Some swamp and island species are endangered, but most continental species are flourishing under protection and good management. Deer, when granted some protection, readily exploit man-made disturbances caused by agriculture, forestry, and urbanization. White-tailed deer, normally a cherished North American game animal, have even become pests in suburbs and cities in the United States and Canada."
+    }
+  ]
+  
