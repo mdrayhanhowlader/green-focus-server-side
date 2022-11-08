@@ -25,6 +25,7 @@ async function run (){
     try {
         // connect with database and collection 
         const serviceCollection = client.db('greenFocus').collection('services')
+        const reviewsCollection = client.db('greenFocus').collection('reviews')
 
         // get services from database 
         app.get('/home', async(req, res) => {
@@ -47,6 +48,14 @@ async function run (){
             const details = await serviceCollection.findOne(query)
             res.send(details)
         })
+
+
+        // reviews 
+        // app.get('/reviews', async(req, res) => {
+        //     const query = {}
+        //     const cursor = 
+        // })
+
 
     }
     finally {
