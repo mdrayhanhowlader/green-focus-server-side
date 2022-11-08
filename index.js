@@ -26,11 +26,11 @@ async function run (){
         const serviceCollection = client.db('greenFocus').collection('services')
 
         // get services from database 
-        app.get('/services', async(req, res) => {
+        app.get('/home', async(req, res) => {
             const query = {}
             const cursor = serviceCollection.find(query)
-            const services = await cursor.toArray()
-            res.send(services)
+            const result = await cursor.limit(3).toArray()
+            res.send(result)
         })
 
     }
